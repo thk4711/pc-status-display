@@ -27,7 +27,7 @@ A real-time system monitoring display built with ESP32-S3 and a round GC9A01 LCD
 | **Microcontroller** | ESP32-S3 | ESP32-S3-Zero board |
 | **Display** | GC9A01 240x240 Round LCD | 1.28" round display recommended |
 
-The ESP32-S3-Zero board (<4$)  and the round GC9A01 (<4$) can be found in eBay or Aliexpress.
+The ESP32-S3-Zero board (<$4)  and the round GC9A01 (<$4) can be found in eBay or Aliexpress.
 
 <img src="doc/images/ESP32-S3-Zero.jpg" style="zoom:25%;" />
 
