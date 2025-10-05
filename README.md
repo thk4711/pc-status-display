@@ -97,13 +97,13 @@ The project follows a clean, modular architecture with proper separation of conc
                        └─────────────────┘    └─────────────────┘
                                 │
                                 ▼
-                       ┌─────────────────┐
-                       │ display_driver  │
-                       │                 │
-                       │ • SPI comm      │
+                       ┌───────────────────┐
+                       │ display_driver    │
+                       │                   │
+                       │ • SPI comm        │
                        │ • LVGL integration│
-                       │ • Hardware setup│
-                       └─────────────────┘
+                       │ • Hardware setup  │
+                       └───────────────────┘
 ```
 
 ### File Structure of PlatformIO/
