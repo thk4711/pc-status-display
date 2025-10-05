@@ -101,7 +101,7 @@ The project follows a clean, modular architecture with proper separation of conc
                        │ display_driver  │
                        │                 │
                        │ • SPI comm      │
-                       │ • LVGL integration
+                       │ • LVGL integration│
                        │ • Hardware setup│
                        └─────────────────┘
 ```
@@ -117,9 +117,8 @@ The project follows a clean, modular architecture with proper separation of conc
 │   ├── display_driver.cpp  # SPI and LVGL implementation
 │   ├── system_manager.cpp  # System management and control logic
 │   ├── ui_components.cpp   # Pure UI implementation
-│   └── main.cpp           # Application entry point
-├── platformio.ini         # PlatformIO configuration
-└── README.md             # This file
+│   └── main.cpp            # Application entry point
+└── platformio.ini          # PlatformIO configuration
 ```
 
 ## Configuration
