@@ -106,7 +106,7 @@ The project follows a clean, modular architecture with proper separation of conc
                        └─────────────────┘
 ```
 
-### File Structure
+### File Structure of PlatformIO/
 
 ```
 ├── include/
