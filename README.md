@@ -29,9 +29,9 @@ A real-time system monitoring display built with ESP32-S3 and a round GC9A01 LCD
 
 The ESP32-S3-Zero board (<4$)  and the round GC9A01 (<4$) can be found in eBay or Aliexpress.
 
-<img src="doc/images/ESP32-S3-Zero.jpg" style="zoom:33%;" />
+<img src="doc/images/ESP32-S3-Zero.jpg" style="zoom:25%;" />
 
-<img src="doc/images/Round-GC9A01-240x240.png" style="zoom:75%;" />
+<img src="doc/images/Round-GC9A01-240x240.png" style="zoom:50%;" />
 
 
 
