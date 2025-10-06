@@ -15,8 +15,7 @@ A real-time system monitoring display built with ESP32-S3 and a round GC9A01 LCD
 
 - **Auto-hiding Meters**: Automatically hides meters showing zero values for >1 minute
 - **Display Power Management**: Blanks display after 1 minute of no data to save power
-- **Boot Animation**: Windows-style rotating arc during startup
-- **Real-time Updates**: Live data processing with 200Hz refresh rate
+- **Boot Animation**: Rotating arc during startup
 
 ![](doc/images/pc-display.png)
 
